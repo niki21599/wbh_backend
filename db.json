@@ -109,5 +109,41 @@
 
         ] }
 
+    ], 
+
+    "chapter": [
+        {"id": 1, "title": "Teil-1-Prüfung", "userId": 1}, 
+        {"id": 2, "title": "Teil-2-Prüfung", "userId": 1}, 
+        {"id": 3, "title": "Projektarbeit", "userId": 1},
+        {"id": 1, "title": "Teil-1-Prüfung", "userId": 2}, 
+        {"id": 2, "title": "Teil-2-Prüfung", "userId": 2}, 
+        {"id": 3, "title": "Projektarbeit", "userId": 2}, 
+        {"id": 1, "title": "Teil-1-Prüfung", "userId": 3}, 
+        {"id": 2, "title": "Teil-2-Prüfung", "userId": 3}, 
+        {"id": 3, "title": "Projektarbeit", "userId": 3}, 
+        {"id": 1, "title": "Teil-1-Prüfung", "userId": 4}, 
+        {"id": 2, "title": "Teil-2-Prüfung", "userId": 4}, 
+        {"id": 3, "title": "Projektarbeit", "userId": 4} 
+
+
+    ], 
+
+    "subChapter": [
+        {"id": 1, "subHeading": "bla", "text": "2", "chapterId": 1, "isComplete": false},
+        {"id": 2, "subHeading": "1", "text": "", "chapterId": 1, "isComplete": false},
+        {"id": 3, "subHeading": "", "text": "", "chapterId": 1, "isComplete": false},
+        {"id": 4, "subHeading": "", "text": "", "chapterId": 2, "isComplete": false}, 
+        {"id": 5, "subHeading": "", "text": "", "chapterId": 2, "isComplete": false},
+        {"id": 6, "subHeading": "", "text": "", "chapterId": 2, "isComplete": false},
+        {"id": 7, "subHeading": "", "text": "", "chapterId": 2, "isComplete": false},
+        {"id": 8, "subHeading": "", "text": "", "chapterId": 2, "isComplete": false},
+        {"id": 9, "subHeading": "", "text": "", "chapterId": 3, "isComplete": false},
+        {"id": 10, "subHeading": "", "text": "", "chapterId": 3, "isComplete": false},
+        {"id": 11, "subHeading": "", "text": "", "chapterId": 3, "isComplete": false},
+        {"id": 12, "subHeading": "", "text": "", "chapterId": 3, "isComplete": false},
+        {"id": 13, "subHeading": "", "text": "", "chapterId": 3, "isComplete": false}
+
     ]
+
+
 }
